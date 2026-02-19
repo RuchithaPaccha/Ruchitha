@@ -1,4 +1,3 @@
-# Ruchitha
 # Hi, I'm Ruchitha Paccha 👋
 
 🚀 AI/ML Engineer | LLMs | RAG | MLOps | Cloud-Native Systems  
